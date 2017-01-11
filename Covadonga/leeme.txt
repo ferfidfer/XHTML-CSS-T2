@@ -1,0 +1,6 @@
+En el presente trabajo se pretende hacer uso de las hojas de estilo como ficheros independientes de un sitio web HTML que sea XHTL 1.0 Strict y valide.
+
+En el archivo CSS se han asignado valores a varias propiedades de distintos elementos para facilitar la consecución de los objetivos marcados en los requerimientos de la práctica. Asimismo se incluyen comentarios que indican de forma resumida cuál es la función de cada regla.
+
+El sitio web está publicado en GitHub en el siguiente enlace:
+https://ferfidfer.github.io/Covadonga/

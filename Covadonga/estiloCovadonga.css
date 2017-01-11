@@ -1,0 +1,55 @@
+/*Valores asignados a las propiedades de los distintos encabezados*/
+
+h1 {
+font-family: verdana, arial, sans-serif;
+color: #990000;
+background-color: #FC9804;
+}
+
+h2 {
+font-family: verdana, arial, sans-serif;
+font-style:italic;
+color: ##FF5733;
+background-color: #9ACE21;
+}
+
+h3 {
+font-family: "Andele Mono", Courier, monospace;
+color: #FFFFFF;
+background-color: #FC9804;
+}
+
+
+h4 {
+font-family: verdana, arial, sans-serif;
+font-style:italic;
+color: #800000;
+background-color: #C7D6DD;
+}
+
+/*Valores asignados a las propiedades de los enlaces*/
+
+a {
+font-family: calibri, Garamond, "Comic Sans";
+color: blue;
+}
+
+/*Valores asignados a las propiedades de los enlaces por los que pasa el ratón*/
+
+a:hover {
+letter-spacing: 5px;
+font-weight:bold;
+color:red;
+}
+
+/*Valores asignados a las propiedades seleccionadas para aplicar en el cuerpo*/
+body {
+font-family: calibri, Garamond, "Comic Sans";
+text-align: justify;
+background-color: #FFCC66;
+}
+
+/*Clase genérica creada para utilizar con la etiqueta span*/
+.clasebold {
+font-weight: bold;
+}
